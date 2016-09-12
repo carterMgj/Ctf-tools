@@ -1,1 +1,6 @@
 
+图片编码解码方法：
+
+bftools.exe decode braincopter ***.png --output test.png
+
+bftools.exe run test.png  得到隐藏的信息
